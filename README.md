@@ -18,6 +18,4 @@ ___
 
 **Контакты**
 
-Почта kolesova95@list.ru
-
 Telegram https://t.me/anastasikolesova
