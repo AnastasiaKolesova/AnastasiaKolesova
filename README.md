@@ -1,21 +1,20 @@
-# Добро пожаловать! :wave:
+# Welcome! :wave:
 
-
-**Меня зовут Анастасия,** мне 27 лет.  
-Я начинающий фронтенд разработчик.
-Ниже вы можете ознакомиться с моими работами и посмотреть мой код. 
+**My name is Anastasia.** I am 27 years old.  
+I am a beginner frontend developer.
+Below you can see my projects and see my code
 ___
 
-**Мой стек:**
+**My stack:**
 
 <img src="https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
 
 
 
-В настоящее время я в процессе изуения Vue3.
+I am currently in the process of learning Vue 3.
 
 ___
 
-**Контакты**
+**Сontacts**
 
 Telegram https://t.me/anastasikolesova
