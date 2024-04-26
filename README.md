@@ -1,8 +1,6 @@
 # Hi! :wave:
 
-**My name is Anastasia.** I am 28 years old.  
 I am a beginner frontend developer.
-Below you can see my projects and see my code
 ___
 
 **My stack:**
