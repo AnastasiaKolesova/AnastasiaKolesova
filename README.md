@@ -12,4 +12,4 @@ ___
 
 **Сontacts**
 
-Telegram https://t.me/anastasikolesova
+Telegram @anastasi74
